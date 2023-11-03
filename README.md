@@ -1,7 +1,6 @@
 # Project Punch
 ## un progetto misterioso, con la giusta soluzione al momento giusto e il metodo inopportuno all'inopportuno momento
 
-**bold**
 In un mondo dove tutti i pianeti e tutte le forme di vita senzienti sono in perenne conflitto per l'egemonia delle risorse
 è nato dal silenzio una competizione misteriosa chiamata project Punch.
 Il 12 dicembre dell 12° millennio terrestre combattenti da tutto il cosmo furono teletrasportati su uno sconosciuto pianeta apparentemente artificiale
